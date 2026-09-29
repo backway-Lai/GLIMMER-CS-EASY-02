@@ -16,7 +16,7 @@
 ### `swap`函数
 在我们之前的函数中我们因为局部变量没办法传回main函数而失败了，但我们现在可以用指针解决这个问题了。只需要在swap函数中引用变量a,b的地址，就可以引入第三个变量temp来储存a指针的地址，从而完成从函数中传回值。
 
-![代码地址](https://github.com/backway-Lai/GLIMMER-CS-EASY-02/blob/main/swap.c)
+![点击查看代码](https://github.com/backway-Lai/GLIMMER-CS-EASY-02/blob/main/swap.c)
 
 代码运行结果：
 ![1](https://github.com/backway-Lai/GLIMMER-CS-EASY-02/raw/main/images/screen-shot1.png)
